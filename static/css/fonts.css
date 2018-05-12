@@ -1,0 +1,112 @@
+
+	/*	loads fonts	*/
+	
+	
+	/*------	PROXIMA NOVA	------*/
+	@font-face {
+		font-family: 'proxima nova' ;
+		src: 	url(../fonts/proxima_nova/ProximaNova-Light.otf);		
+		font-weight: 200;
+		font-style: normal;	
+	}
+	@font-face {
+		font-family: 'proxima nova' ;
+		src: 	url(../fonts/proxima_nova/ProximaNova-LightItalic.otf);		
+		font-weight: 200;
+		font-style: italic;	
+	}
+	@font-face {
+		font-family: 'proxima nova' ;
+		src: 	url(../fonts/proxima_nova/ProximaNova-Regular.otf);		
+		font-weight: normal;
+		font-style: normal;	
+	}
+	
+	@font-face {
+		font-family: 'proxima nova';
+		src: (../fonts/proxima_nova/ProximaNova-RegularItalic.otf);
+		font-style: italic;
+	}
+	@font-face {
+		font-family: 'proxima nova' ;
+		src: 	url(../fonts/ProximaNova-Semibold.otf);		
+		font-weight: 600;
+		font-style: normal;	
+	}
+	@font-face {
+		font-family: 'proxima nova' ;
+		src: 	url(../fonts/proxima_nova/ProximaNova-SemiboldItalic.otf);		
+		font-weight: 600;
+		font-style: italic;	
+	}
+	@font-face {
+		font-family: 'proxima nova' ;
+		src: 	url(../fonts/proxima_nova/ProximaNova-Bold.otf);		
+		font-weight: bold;
+		font-style: normal;	
+	}
+	
+	
+	/*------ 	RALEWAY	------*/
+	@font-face {
+		font-family: 'raleway';
+		src: 	url(../fonts/raleway/Raleway-Regular.ttf);
+		font-weight: normal;
+		font-style: normal;
+	}
+	@font-face {
+		font-family: 'raleway';
+		src: 	url(../fonts/raleway/Raleway-italic.ttf);
+		font-weight: normal;
+		font-style: italic;
+	}
+	@font-face {
+		font-family: 'raleway';
+		src: 	url(../fonts/raleway/Raleway-thin.ttf);
+		font-weight: 100;
+		font-style: normal;
+	}
+	@font-face {
+		font-family: 'raleway';
+		src: 	url(../fonts/raleway/Raleway-ThinItalic.ttf);
+		font-weight: 100;
+		font-style: italic;
+	}
+	@font-face {
+		font-family: 'raleway';
+		src: 	url(../fonts/raleway/Raleway-light.ttf);
+		font-weight: 300;
+		font-style: normal;
+	}
+	@font-face {
+		font-family: 'raleway';
+		src: 	url(../fonts/raleway/Raleway-LightItalic.ttf);
+		font-weight: 300;
+		font-style: italic;
+	}
+	@font-face {
+		font-family: 'raleway';
+		src: 	url(../fonts/raleway/Raleway-Medium.ttf);
+		font-weight: 500;
+		font-style: normal;
+	}
+	@font-face {
+		font-family: 'raleway';
+		src: 	url(../fonts/raleway/Raleway-MediumItalic.ttf);
+		font-weight: 500;
+		font-style: italic;
+	}
+	@font-face {
+		font-family: 'raleway';
+		src: 	url(../fonts/raleway/Raleway-Bold.ttf);
+		font-weight: 700;
+		font-style: normal;
+	}
+	@font-face {
+		font-family: 'raleway';
+		src: 	url(../fonts/raleway/Raleway-BoldItalic.ttf);
+		font-weight: 700;
+		font-style: italic;
+	}
+	
+	
